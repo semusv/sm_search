@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+asyncpg
+psycopg[binary]
+pgvector
+pydantic>=2
+pydantic-settings
+httpx
+tenacity
+python-dotenv
+sentence-transformers
+transformers
+torch
+alembic
+pytest
+pytest-asyncio
